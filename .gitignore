@@ -265,3 +265,5 @@ terraform.rc
 # planout
 
 keys/
+*.txt
+command_line
